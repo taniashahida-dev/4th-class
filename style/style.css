@@ -1,0 +1,58 @@
+.main-div{
+    background-color: blanchedalmond;
+}
+.head{
+    display: flex;
+   justify-content: space-between;
+   
+
+}
+.pera-1{
+   
+   margin: 25px;
+   padding: 10px;
+}
+.home{
+   display: flex;
+    text-align: end;
+    gap: 15px;
+    margin: 25px;
+}
+.div-2{
+   padding: 20px;
+   margin-top: 50px;
+}
+.h-1{
+display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.pera-2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.div-btn-1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+}
+.button-1{
+    color:white;
+    background-color: rgb(246, 124, 2);
+    border-radius: 10px;
+    border-style: ridge ;
+    border-color: rgb(225, 211, 211);
+    padding: 10px;
+}
+.div-img-1{
+ display: flex;
+    justify-content: center;
+    align-content: center;
+     
+}
+.img-1{
+    height: 1440;
+   width: 700;
+}
