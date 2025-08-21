@@ -1,14 +1,12 @@
 .main-div{
     background-color: blanchedalmond;
+    padding-bottom: 20px;
 }
 .head{
     display: flex;
-   justify-content: space-between;
-   
-
+   justify-content: space-between;   
 }
-.pera-1{
-   
+.pera-1{   
    margin: 25px;
    padding: 10px;
 }
@@ -35,8 +33,7 @@ display: flex;
 .div-btn-1{
     display: flex;
     justify-content: center;
-    text-align: center;
-   
+    text-align: center;   
 }
 .button-1{
     color:white;
@@ -49,10 +46,143 @@ display: flex;
 .div-img-1{
  display: flex;
     justify-content: center;
-    align-content: center;
-     
+    align-content: center;     
 }
 .img-1{
     height: 1440;
    width: 700;
+}
+
+
+.main-div2{
+    display: flex;
+    justify-content: space-around;   
+   padding: 30px;
+   margin-bottom: 50px;
+}
+.img-team{
+    display: grid;
+  grid-template-columns: 1fr 1fr ;
+  margin-top: 10px;
+  gap: 15px;
+}
+.div-3{
+    margin-top: 250px;
+    margin-left: -200px;
+}
+.btn-2{
+     color:white;
+    background-color: rgb(246, 124, 2);
+    border-radius: 10px;
+    border-style: ridge ;
+    border-color: rgb(225, 211, 211);
+    padding: 10px;
+}
+
+.main-div3{
+    display: flex;
+    justify-content: space-around;   
+  padding: 20px;
+  margin-bottom: 30px;
+
+}
+.sec-1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: start;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.sec-2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: start;
+  padding: 10px;
+    margin-bottom: 10px;
+}
+.sec-3{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: start;
+  padding: 10px;
+    margin-bottom: 10px;
+}
+.sec-4{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: start;
+  padding: 10px;
+    margin-bottom: 10px;
+}
+
+.img-btn{
+    
+    width: 800px;
+    height: 1059px;
+}
+.img-gr{
+ margin-left: 80px;
+}
+
+
+.btn-3{
+     margin-left: -90px;
+    margin-top: -160px; 
+    height: 200px;
+    width: 342px;
+     color:white;
+    background-color: rgb(246, 124, 2);
+    border-radius: 10px;
+    border-style: ridge ;
+    border-color: rgb(225, 211, 211);
+    padding: 10px;
+}
+
+
+.main-div4{
+    display: flex;
+    padding: 50px;   
+    margin: 50px; 
+}
+
+.div-icon{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 30px;
+}
+.icon{
+    width:150px;
+  height: 150px;
+  padding: 5px;
+  border: 2px solid rgba(245, 168, 3, 0.922);
+ 
+}
+.pera-4{
+    display: flex;
+    justify-content: center;
+}
+.pera-5{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -50px;
+   padding-bottom: 30px;
+}
+
+.sponsor{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    width: 166px;
+    gap: 100px;
+   padding-left: 100px;
+   margin-bottom: 50px;
+}
+.div-last{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width:1220px;
+  height: 50px;
+  background-color:  blanchedalmond;
+  margin-left: 100px;
+  margin-bottom: 80px;
+  
 }
