@@ -122,7 +122,7 @@ display: flex;
 
 
 .btn-3{
-     margin-left: -90px;
+     margin-left: -40px;
     margin-top: -160px; 
     height: 200px;
     width: 342px;
@@ -170,19 +170,21 @@ display: flex;
     display: flex;
     justify-content: space-around;
     height: 50px;
-    width: 166px;
-    gap: 100px;
+    width: 152px;
+    gap: 150px;
    padding-left: 100px;
    margin-bottom: 50px;
+   filter: grayscale(100%);
 }
 .div-last{
     display: flex;
     justify-content: center;
     text-align: center;
-    width:1220px;
+    width:1430px;
   height: 50px;
   background-color:  blanchedalmond;
   margin-left: 100px;
   margin-bottom: 80px;
+ 
   
 }
